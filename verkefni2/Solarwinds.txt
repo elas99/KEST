@@ -1,0 +1,3 @@
+Frá flestum síðum sem ég hef verið að skoða, hef ég alltaf fundið einhvað um Solarwinds.
+Það sýnist mér vera eitt af vinsælasta monitoring tools fyrir windows.
+Það virkar bæði fyrir real time monitoring og líka til þess að fá upplýsingar frá mörgum notendum(agents)
